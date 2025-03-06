@@ -5,10 +5,14 @@ public class Hellojava {
 	public static void main(String[] args) {
 		
 		
-	//	System.out.println("Hello java");
-		
-		
-		System.out.println("Hello Rakesh");
+	int a=10;
+	
+	int b=10;
+	
+	int c=a+b;
+	
+	System.out.println(c);
+	
 	}
 
 }
